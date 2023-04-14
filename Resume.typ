@@ -1,7 +1,7 @@
 #import "alta-typst.typ": alta, term, skill
 
 #alta(
-  name: "John Smith",
+  name: "Yue Xiong",
   links: (
     (name: "email", link: "mailto:contact@example.com"),
     (name: "website", link: "https://example.com/", display: "example.com"),
